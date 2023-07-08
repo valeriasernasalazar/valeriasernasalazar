@@ -7,9 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://valeriasernasalazar.github.io/ValeriaSerna_Portfolio](https://valeriasernasalazar.github.io/ValeriaSerna_Portfolio)
 
-- 📫 How to reach me **valeriasernasalazar8@gmail.com**
-
-- ⚡ Fun fact **I love baking**
+- 📫 You can reach me via email: **valeriasernasalazar8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
