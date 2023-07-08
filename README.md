@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **SQL,C++, R, Python**
 
-- 👨‍💻 All of my projects are available at [https://valeriasernasalazar.github.io/ValeriaSerna_Portfolio](https://valeriasernasalazar.github.io/ValeriaSerna_Portfolio)
+- 👨‍💻 All of my projects are available at [https://valeriasernasalazar.github.io/ValeriaSerna_Portfolio]**(https://valeriasernasalazar.github.io/ValeriaSerna_Portfolio)**
 
 - 📫 You can reach me via email: **valeriasernasalazar8@gmail.com**
 
