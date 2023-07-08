@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Valeria Serna</h1>
+<h1 align="center">Hello, I'm Valeria Serna 👋</h1>
 <h3 align="center">A passionate data science student</h3>
 
 - 🔭 I’m currently working on **Machine Learning Algorithms!**
