@@ -1,9 +1,7 @@
 <h1 align="center">Hello, I'm Valeria Serna 👋</h1>
-<h3 align="center">A passionate data science student</h3>
+<h3 align="center">A passionate data scientist</h3>
 
-- 🔭 I’m currently working on **Graph Theory!**
-
-- 🌱 I’m currently learning **SQL,C++, R, Python**
+- 🔭 I’m currently working on **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://valeriaserna.com](https://valeriaserna.com)
 
