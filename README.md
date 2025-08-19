@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm Valeria Serna 👋</h1>
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">Data Scientist</h3>
 
-- 🔭 Currently working as a **Data Analyst** at Enviaflores.com  
 - 🌱 Building strong foundations in **Statistics, Machine Learning, and Python**  
 - 👨‍💻 Explore my projects at [https://valeriaserna.com](https://valeriaserna.com)  
 - 📫 Reach me at: **valeriasernasalazar8@gmail.com**  
